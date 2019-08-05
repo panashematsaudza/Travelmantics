@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="first_last_name"><![CDATA[First   & Last Name]]></string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_save">Save</string>
+    <string name="deal_title">Deal Title</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">description</string>
+    <string name="save_menu">Save</string>
+</resources>
